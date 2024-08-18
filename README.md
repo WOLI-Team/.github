@@ -1,1 +1,1 @@
-# .github
+# WOLI Team
